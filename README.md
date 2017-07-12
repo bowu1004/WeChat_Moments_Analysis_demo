@@ -3,4 +3,4 @@
 --------
 **Example**
 
-![image](/figure_result.jpg "example result")
+![image](/figure_result.png "example result")
